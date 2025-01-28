@@ -76,6 +76,5 @@
 # print(dis.dis(multiplication)) 
 
 
-list = map(list, input().split(" "))
-print(list)
+
 

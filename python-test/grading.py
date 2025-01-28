@@ -9,7 +9,7 @@ def total(marks):
     return sum(marks)
 
 def percentage(total_marks):
-    return (total_marks / 500) * 100  # Fix the division by 500
+    return (total_marks / 500) * 100 
 
 def grade(percent):
     if percent >= 90:
