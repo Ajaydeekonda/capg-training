@@ -15,18 +15,18 @@
 
 # creating a csv file
 
-# with open('example.txt','w+') as file:
-#     content = list(map(str,input("Enter the keys and values separated by spaces:").split()))
-#     while content:
-#         for i in range(len(content)):
-#             if ',' in content[i]:
-#                 content[i] = f'"{content[i]}"'
+with open('Day9/example.txt','w+') as file:
+    content = list(map(str,input("Enter the keys and values separated by spaces:").split()))
+    while content:
+        for i in range(len(content)):
+            if ',' in content[i]:
+                content[i] = f'"{content[i]}"'
                 
-#         file.write(','.join(content)+"\n")
+        file.write(','.join(content)+"\n")
                 
-#         content = list(map(str,input("Enter the keys and values separated by spaces:").split())) 
+        content = list(map(str,input("Enter the keys and values separated by spaces:").split())) 
 
-
+# open('Day9/example.txt','w').write("Ajay")
 
 # with open('example.txt','r') as file:
      
@@ -34,31 +34,31 @@
 #     for line in reader:
 #         print(line)
 
-import csv
+# import csv
 
 
-with open('example.txt', 'w+', newline='') as file:  # Use 'w+' mode
-    writer = csv.writer(file)
+# with open('example.txt', 'w+', newline='') as file:  # Use 'w+' mode
+#     writer = csv.writer(file)
     
-    while True:
-        content = input("Enter the keys and values separated by spaces: ").split()
+#     while True:
+#         content = input("Enter the keys and values separated by spaces: ").split()
         
-        if not content:  # Stop if input is empty or contains only spaces
-            break
+#         if not content:  # Stop if input is empty or contains only spaces
+#             break
         
-        # Enclose fields with commas in double quotes
-        for i in range(len(content)):
-            if ',' in content[i]:
-                content[i] = f'"{content[i]}"'
+#         # Enclose fields with commas in double quotes
+#         for i in range(len(content)):
+#             if ',' in content[i]:
+#                 content[i] = f'"{content[i]}"'
 
-        writer.writerow(content)  # Write content correctly
+#         writer.writerow(content)  # Write content correctly
 
-    file.seek(0)  # Move the file pointer back to the beginning
+#     file.seek(0)  # Move the file pointer back to the beginning
     
-    # Read and print file contents
-    reader = csv.reader(file)
-    for line in reader:
-        print(line)  # Print each row in the file
+#     # Read and print file contents
+#     reader = csv.reader(file)
+#     for line in reader:
+#         print(line)  # Print each row in the file
 
     
 
