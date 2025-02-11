@@ -68,7 +68,7 @@ def select_all_data(connection):
 def updating_data(connection):
     cursor=connection.cursor()
     try:
-        query="""UPDATE EMPLOYEE SET SALARY=7000 WHERE name="shanmuk";"""
+        query = """UPDATE EMPLOYEE SET SALARY=7000 WHERE name="shanmuk";"""
         cursor.execute(query)
         connection.commit()
         print('Updated the data succesfully')
