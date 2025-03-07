@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <StartupObject>CsharpTest.Student</StartupObject>
+	  <StartupObject>CsharpTest.BankAccount</StartupObject>
+	  <StartupObject>CsharpTest.Library</StartupObject>
+	  <StartupObject>CsharpTest.ShapeMain</StartupObject>
+	  <StartupObject>CsharpTest.VehicleMain</StartupObject>
+	  <StartupObject>CsharpTest.PersonMain</StartupObject>
+	  <StartupObject>CsharpTest.Calculator</StartupObject>
+	  <StartupObject>CsharpTest.Player</StartupObject>
+	  <StartupObject>CsharpTest.UserMain</StartupObject>
+	  <StartupObject>CsharpTest.Complex</StartupObject>
+	  <StartupObject>CsharpTest.DepartmentMain</StartupObject>
+	  <StartupObject>CsharpTest.ButtonMain</StartupObject>
+	  
+  </PropertyGroup>
+
+</Project>

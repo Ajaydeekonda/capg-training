@@ -1,0 +1,39 @@
+# Ignore Visual Studio and Rider files
+.vs/
+*.suo
+*.user
+*.cache
+
+# Ignore build and output directories
+bin/
+obj/
+
+# Ignore dependency packages
+packages/
+*.nupkg
+project.lock.json
+
+# Ignore compiled binaries
+*.dll
+*.exe
+*.pdb
+
+# Ignore test results
+TestResults/
+
+# Ignore database-related files
+*.mdf
+*.ldf
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Web API environment settings
+appsettings.Development.json
+
+# Ignore migrations and generated files (if not needed in version control)
+Migrations/
+
+# Ignore Rider/AI-generated files
+.idea/
