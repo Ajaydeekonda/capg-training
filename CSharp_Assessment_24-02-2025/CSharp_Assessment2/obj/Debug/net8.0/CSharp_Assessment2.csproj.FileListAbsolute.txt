@@ -1,0 +1,15 @@
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\obj\Debug\net8.0\CSharp_Assessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\obj\Debug\net8.0\CSharp_Assessment2.AssemblyInfoInputs.cache
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\obj\Debug\net8.0\CSharp_Assessment2.AssemblyInfo.cs
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\obj\Debug\net8.0\CSharp_Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\obj\Debug\net8.0\CSharp_Assessment2.sourcelink.json
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\bin\Debug\net8.0\CSharp_Assessment2.exe
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\bin\Debug\net8.0\CSharp_Assessment2.deps.json
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\bin\Debug\net8.0\CSharp_Assessment2.runtimeconfig.json
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\bin\Debug\net8.0\CSharp_Assessment2.dll
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\bin\Debug\net8.0\CSharp_Assessment2.pdb
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\obj\Debug\net8.0\CSharp_Assessment2.dll
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\obj\Debug\net8.0\refint\CSharp_Assessment2.dll
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\obj\Debug\net8.0\CSharp_Assessment2.pdb
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\obj\Debug\net8.0\CSharp_Assessment2.genruntimeconfig.cache
+C:\Users\ellur\Desktop\Capg_Assesments\CSharp_Assessment_24-02-2025\CSharp_Assessment2\obj\Debug\net8.0\ref\CSharp_Assessment2.dll
