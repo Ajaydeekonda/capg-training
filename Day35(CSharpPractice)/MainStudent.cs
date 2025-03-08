@@ -46,5 +46,3 @@ namespace Basics
 
 }
 
-// Write a program to demonstrate the use of properties in C#.
-// wrtie a program to demonstrate the use of read only and write only properties in C#.
