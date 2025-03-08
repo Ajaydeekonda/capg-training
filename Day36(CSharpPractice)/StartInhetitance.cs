@@ -29,9 +29,4 @@ namespace Basics
     }
 }
 
-// Multi Level
-// Multiple inheritance
-//
-///
-//A inherti to B, B in hert to C
-// A, B to C
+
