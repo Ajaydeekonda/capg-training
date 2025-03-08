@@ -1,21 +1,30 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-// Collection of member variables and functions
 namespace Basics
 {
-    public class EmployeeCls
+    public class Employee
     {
-        public int Id;
-        public string Name;
+        public int Id { get; set; }
+        public string Name { get; set; }
 
-        public string Display()
+        public Employee(int id, string name)
         {
-            return Id + "  "+Name;
+            Id = id;
+            Name = name;
         }
-        
+
+        public override string ToString()
+        {
+            return $"ID: {Id}, Name: {Name}";
+        }
+    }
+
+    class Program
+    {
+        static void Main()
+        {
+            Employee emp = new Employee(1, "John Doe");
+            Console.WriteLine(emp);
+        }
     }
 }
